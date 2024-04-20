@@ -10,7 +10,8 @@ This project showcases the development of an AC Voltage Tester Circuit, designed
 - **Easy-to-Use:** Simple operation ensures accessibility for users with varying levels of technical expertise.
 
 ## Circuit Diagram
-[![Circuit Diagram](link_to_circuit_diagram_image)](https://github.com/santron1/-AC-Voltage-Tester-Circuit/assets/167627757/b391e289-c119-4dcd-bf10-9ec596d5c4ec)
+![image](https://github.com/santron1/-AC-Voltage-Tester-Circuit/assets/167627757/47f7e777-e764-43b5-b916-3ed06e6cd886)
+
 
 ## Video Demonstration
 A video demonstrating the functionality and usage of the AC Voltage Tester Circuit is available [here](https://github.com/santron1/-AC-Voltage-Tester-Circuit/assets/167627757/1c5359b7-97b6-4b1a-b110-cdbead492f5a).
